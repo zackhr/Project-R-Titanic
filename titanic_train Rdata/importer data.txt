@@ -1,0 +1,4 @@
+Télécharger les données (dites d’apprentissage) titanic_train.Rdata disponibles à l’adresse 
+w3.mi.parisdescartes.fr/~vperduca/programmation/data/titanic_train.Rdata
+et les charger en R à l’aide de :
+load('REPERTOIRE_DE_TRAVAIL/titanic_train.Rdata')
